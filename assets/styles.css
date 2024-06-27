@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.downloads-container {
+    text-align: center;
+}
+
+.download-item {
+    margin-bottom: 20px;
+}
+
+.file-name {
+    color: white;
+    margin-bottom: 5px;
+}
+
+.download-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    background-color: grey;
+}
